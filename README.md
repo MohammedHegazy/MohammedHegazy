@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Check my rank 😊:[![gayanvoice/top-github-users/syria](https://raw.githubusercontent.com/gayanvoice/top-github-users-ranking/main/svg/syria/mohammedhegazy.svg)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/syria.md#mohammedhegazy)
+## My Rank:
+[![gayanvoice/top-github-users/syria](https://raw.githubusercontent.com/gayanvoice/top-github-users-ranking/main/svg/syria/mohammedhegazy.svg)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/syria.md#mohammedhegazy)
